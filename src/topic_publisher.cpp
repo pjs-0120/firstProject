@@ -13,7 +13,7 @@ ros::Rate loop_rate(10);
 // MsgTutorial메시지파일형식으로msg라는메시지를선언
 ros_tutorials_topic::MsgTutorial msg;
 // 메시지에사용될변수선언
-
+// 테스트 문구입니다.
 int count = 0;
 
 while (ros::ok())
